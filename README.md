@@ -1,6 +1,6 @@
 ## Welcome to MackSec
 
-This is page to Discuss Network and Infosec topics.
+This is where I talk about Network and Infosec topics.
 
 ### Contact
 
