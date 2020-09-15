@@ -1,5 +1,5 @@
-<p align="center"><h1 align="center">Enlight</h1></p>
-<p align="center"><b>learn to code by building projects</b></p>
+<p align="center"><h1 align="center">MackSec</h1></p>
+<p align="center"><b>Network Security Engineer in action</b></p>
 
 ## Welcome, Zeros and Ones
 
