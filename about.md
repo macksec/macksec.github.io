@@ -1,3 +1,7 @@
+layout: page
+title: "About"
+permalink: /about/
+
 ## About
 
 The Creator of this page is a modern Tinkerer and a classic Art admirer.<br>
