@@ -1,8 +1,11 @@
+<p align="center"><h1 align="center">Enlight</h1></p>
+<p align="center"><b>learn to code by building projects</b></p>
+
 ## Welcome, Zeros and Ones
 
 This is where I talk about Network and Infosec topics.
 
-<a href="https://macksecio.github.com/about">About me</a>
+[About me](https://macksecio.github.com/about)
 
 ### Contact
 
